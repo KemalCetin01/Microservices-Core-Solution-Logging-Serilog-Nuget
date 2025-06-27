@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MS.Services.Core.Logging</id>
+    <version>1.0.0</version>
+    <authors>Microservices Kemal Çetin</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Serilog" version="4.2.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.AspNetCore" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Enrichers.CorrelationId" version="3.0.1" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Formatting.Elasticsearch" version="10.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\09373118\Source\Repos\MS.Services.Core\Logging\src\MS.Services.Core.Logging\bin\Debug\net9.0\MS.Services.Core.Logging.dll" target="lib\net9.0\MS.Services.Core.Logging.dll" />
+  </files>
+</package>

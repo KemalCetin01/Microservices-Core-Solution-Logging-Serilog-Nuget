@@ -1,0 +1,12 @@
+C:\Users\09373118\Source\Repos\MS.Services.Core\Logging\src\MS.Services.Core.Logging\obj\Debug\net9.0\MS.Services.Core.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09373118\Source\Repos\MS.Services.Core\Logging\src\MS.Services.Core.Logging\obj\Debug\net9.0\MS.Services.Core.Logging.AssemblyInfoInputs.cache
+C:\Users\09373118\Source\Repos\MS.Services.Core\Logging\src\MS.Services.Core.Logging\obj\Debug\net9.0\MS.Services.Core.Logging.AssemblyInfo.cs
+C:\Users\09373118\Source\Repos\MS.Services.Core\Logging\src\MS.Services.Core.Logging\obj\Debug\net9.0\MS.Services.Core.Logging.csproj.CoreCompileInputs.cache
+C:\Users\09373118\Source\Repos\MS.Services.Core\Logging\src\MS.Services.Core.Logging\bin\Debug\net9.0\MS.Services.Core.Logging.deps.json
+C:\Users\09373118\Source\Repos\MS.Services.Core\Logging\src\MS.Services.Core.Logging\bin\Debug\net9.0\MS.Services.Core.Logging.dll
+C:\Users\09373118\Source\Repos\MS.Services.Core\Logging\src\MS.Services.Core.Logging\bin\Debug\net9.0\MS.Services.Core.Logging.pdb
+C:\Users\09373118\Source\Repos\MS.Services.Core\Logging\src\MS.Services.Core.Logging\obj\Debug\net9.0\MS.Services.Core.Logging.csproj.AssemblyReference.cache
+C:\Users\09373118\Source\Repos\MS.Services.Core\Logging\src\MS.Services.Core.Logging\obj\Debug\net9.0\MS.Services.Core.Logging.dll
+C:\Users\09373118\Source\Repos\MS.Services.Core\Logging\src\MS.Services.Core.Logging\obj\Debug\net9.0\refint\MS.Services.Core.Logging.dll
+C:\Users\09373118\Source\Repos\MS.Services.Core\Logging\src\MS.Services.Core.Logging\obj\Debug\net9.0\MS.Services.Core.Logging.pdb
+C:\Users\09373118\Source\Repos\MS.Services.Core\Logging\src\MS.Services.Core.Logging\obj\Debug\net9.0\ref\MS.Services.Core.Logging.dll
